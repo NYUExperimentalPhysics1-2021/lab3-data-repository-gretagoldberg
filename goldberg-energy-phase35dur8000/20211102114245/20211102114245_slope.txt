@@ -1,0 +1,2 @@
+crossing time (s)	slope (V/s)	crossing number
+8355.753939	2.626304	5380
